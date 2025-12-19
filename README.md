@@ -1,41 +1,67 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav vashistha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Vashistha
 ========================================================================================================================================
 
-Python Developer and Tech Enthusiast
-------------------------------------
+Agentic AI Engineer | Building Multi-Modal Systems & Automation
+---------------------------------------------------------------
 
-About Me - Hi! I'm Gaurav Vashistha, a tech enthusiast with skills in Python, GitHub, Firebase, and basic Flutter. I'm passionate about solving problems and exploring innovative technologies. My Skills - Python: Versatile coding for various applications. GitHub: Version control and collaboration. Firebase: Real-time database and cloud storage. Flutter: Basics of cross-platform app development. Career Goals - I'm aiming to build a career in DevOps, focusing on CI/CD pipelines, containerization, and cloud infrastructure. My goal is to streamline development processes and ensure efficient software delivery. Let's Connect! I'm open to collaborations and new opportunities. Feel free to reach out!
+**About Me**
+Hi! I'm Gaurav Vashistha, a CS/AI Graduate pivoting to **Agentic AI Engineering**. I specialize in building autonomous multi-agent workflows and RAG systems using **Llama 3.2 Vision**, **Groq**, and **Pinecone**.
 
-*   🌍  I'm based in Noida
-*   ✉️  You can contact me at [gaurav.vashistha09@gmail.com](mailto:gaurav.vashistha09@gmail.com)
-*   🧠  I'm learning DevOps and Python
-*   🤝  I'm open to collaborating on anything i can help in### Skills 
+Formerly a Digital Catalog Specialist, I now focus on translating business requirements into deployed AI solutions. My passion lies in orchestrating complex enterprise workflows using **n8n** and **Docker**.
+
+* 🌍  I'm based in **Noida, UP**
+* ✉️  Contact me at **[gaurav.vashistha09@gmail.com](mailto:gaurav.vashistha09@gmail.com)**
+* 🧠  I'm currently building **MerchFlow AI** and exploring **Agentic Workflows**
+* 🤝  Open to collaborations on **GenAI, RAG, and Automation projects**
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**AI & GenAI:**
+![Llama 3.2](https://img.shields.io/badge/Llama_3.2-040404?style=for-the-badge&logo=meta&logoColor=blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain/RAG](https://img.shields.io/badge/RAG_&_Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Languages & Data:**
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**DevOps & Automation:**
+![n8n](https://img.shields.io/badge/n8n-FF655A?style=for-the-badge&logo=n8n&logoColor=white)
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 **MerchFlow AI (Open Source Enterprise Edition)**
+*A Multi-Agent system automating e-commerce listings from product images.*
+- **Tech:** Python, Llama 3.2 Vision, Groq, n8n, Docker, Hugging Face Spaces.
+- **Architecture:** Sequential three-agent system (Visual Analyst, SEO Brain, Copywriter).
+- **Highlights:** Zero-config "always-on" deployment and low-latency image analysis.
+
+#### 🎙️ **Jarvis - Voice-Activated Assistant**
+*Advanced virtual assistant for hands-free operation and automation.*
+- **Tech:** Python, OpenAI API, Speech Recognition.
+- **Features:** Real-time news delivery, ambient noise adjustment, and automated web navigation.
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
-                  
-                  
-                  
-<p align="left">
-                      <a href="https://www.github.com/Bhishaj9" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/gaurav-vashistha-009632198/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/Bhishaj_V" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+  <a href="https://www.github.com/Bhishaj9" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-vashistha-009632198/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.x.com/Bhishaj_V" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>
