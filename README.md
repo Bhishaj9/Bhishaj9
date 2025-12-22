@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Vashistha
 ========================================================================================================================================
 
-Agentic AI Engineer | Building Multi-Modal Systems & Automation
+Agentic AI Engineer | Python Developer | Event-Driven Architectures
 ---------------------------------------------------------------
 
 **About Me**
-Hi! I'm Gaurav Vashistha, a CS/AI Graduate pivoting to **Agentic AI Engineering**. I specialize in building autonomous multi-agent workflows and RAG systems using **Llama 3.2 Vision**, **Groq**, and **Pinecone**.
+Hi! I'm Gaurav Vashistha, an **Agentic AI Engineer**. I specialize in building "autonomous multi-agent workflows" and "event-driven architectures" using **FastAPI**, **Docker**, and **n8n**.
 
-Formerly a Digital Catalog Specialist, I now focus on translating business requirements into deployed AI solutions. My passion lies in orchestrating complex enterprise workflows using **n8n** and **Docker**.
+Formerly a Digital Catalog Specialist, I now focus on translating business requirements into deployed AI solutions. My passion lies in orchestrating complex enterprise workflows.
 
 * 🌍  I'm based in **Noida, UP**
 * ✉️  Contact me at **[gaurav.vashistha09@gmail.com](mailto:gaurav.vashistha09@gmail.com)**
@@ -38,18 +38,40 @@ Formerly a Digital Catalog Specialist, I now focus on translating business requi
 
 ---
 
+### 💼 Professional Experience
+
+**Digital Catalog Specialist (AI Automation Focus)**
+*Creative Lipi (IndiaMART Vendor) | Jan 2025 – Sep 2025*
+- Engineered prompt engineering workflows (Gemini/ChatGPT) reducing manual processing time by **40%**.
+- Managed data validation for 200+ catalogs.
+- Executed System Integration Testing (SIT) ensuring 99% uptime.
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🤖 **MerchFlow AI (Open Source Enterprise Edition)**
 *A Multi-Agent system automating e-commerce listings from product images.*
-- **Tech:** Python, Llama 3.2 Vision, Groq, n8n, Docker, Hugging Face Spaces.
-- **Architecture:** Sequential three-agent system (Visual Analyst, SEO Brain, Copywriter).
-- **Highlights:** Zero-config "always-on" deployment and low-latency image analysis.
+- **Tech:** Python, FastAPI, Groq, Pinecone, n8n, Docker.
+- **Architecture:** Sequential three-agent system (Visual, Memory, Writer) with RAG pipeline using Pinecone to reduce hallucinations.
+- **Highlights:** Ultra-low latency via Groq and robust **FastAPI** backend.
 
 #### 🎙️ **Jarvis - Voice-Activated Assistant**
 *Advanced virtual assistant for hands-free operation and automation.*
-- **Tech:** Python, OpenAI API, Speech Recognition.
-- **Features:** Real-time news delivery, ambient noise adjustment, and automated web navigation.
+- **Tech:** Python, OpenAI API, Speech Recognition, NewsAPI.
+- **Features:** Real-time news delivery via NewsAPI, ambient noise adjustment algorithms, and automated web navigation.
+
+---
+
+### 🎓 Education
+
+- **B.Tech in CS & AI** | ABESIT (2021-2024)
+- **Diploma in Computer Science** | LPU (2018-2021)
+
+### 🏅 Certifications
+
+- **Microsoft Learn Challenge:** Create agents in Microsoft Copilot Studio (Jan 2025)
+- **Udemy:** Flutter Development Bootcamp (Oct 2024)
 
 ---
 
