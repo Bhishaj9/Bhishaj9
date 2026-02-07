@@ -5,7 +5,7 @@ Agentic AI Engineer | Python Developer | Event-Driven Architectures
 ---------------------------------------------------------------
 
 **About Me**
-Hi! I'm Gaurav Vashistha, an **Agentic AI Engineer**. I specialize in building "autonomous multi-agent workflows" and "event-driven architectures" using **FastAPI**, **Docker**, and **n8n**.
+Hi! I'm Gaurav Vashistha, an **Agentic AI Engineer and Python Developer** specializing in building autonomous multi-agent workflows and event-driven architectures. I have extensive experience with **FastAPI**, **Llama 3.2 Vision**, and **Pinecone (RAG)**.
 
 Formerly a Digital Catalog Specialist, I now focus on translating business requirements into deployed AI solutions. My passion lies in orchestrating complex enterprise workflows.
 
@@ -23,12 +23,16 @@ Formerly a Digital Catalog Specialist, I now focus on translating business requi
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain/RAG](https://img.shields.io/badge/RAG_&_Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Veo](https://img.shields.io/badge/Google_Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Languages & Data:**
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 **DevOps & Automation:**
 ![n8n](https://img.shields.io/badge/n8n-FF655A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -40,20 +44,25 @@ Formerly a Digital Catalog Specialist, I now focus on translating business requi
 
 ### 💼 Professional Experience
 
-**Digital Catalog Specialist (AI Automation Focus)**
-*Creative Lipi (IndiaMART Vendor) | Jan 2025 – Sep 2025*
+**Product Data Engineer**
+*Creative Lipi (IndiaMART Vendor) | Jan 2025 – Oct 2025*
 - Engineered prompt engineering workflows (Gemini/ChatGPT) reducing manual processing time by **40%**.
 - Managed data validation for 200+ catalogs.
+- Optimized SEO for 27+ clients, ensuring high visibility and engagement.
 - Executed System Integration Testing (SIT) ensuring 99% uptime.
-
 ---
 
 ### 🚀 Featured Projects
 
+#### 🎥 **Continuity**
+*Autonomous video post-production SaaS synthesizing cinematic transition bridges.*
+- **Tech:** FastAPI, Vertex AI (Veo), Stripe, Docker.
+- **Highlights:** "Golden Thread" architecture, async polling with "Dead Man's Switch", smart caching.
+
 #### 🤖 **MerchFlow AI (Open Source Enterprise Edition)**
 *A Multi-Agent system automating e-commerce listings from product images.*
 - **Tech:** Python, FastAPI, Groq, Pinecone, n8n, Docker.
-- **Architecture:** Sequential three-agent system (Visual, Memory, Writer) with RAG pipeline using Pinecone to reduce hallucinations.
+- **Architecture:** Sequential multi-agent system (Visual, Memory, Writer agents) with RAG pipeline using Pinecone to reduce hallucinations.
 - **Highlights:** Ultra-low latency via Groq and robust **FastAPI** backend.
 
 #### 🎙️ **Jarvis - Voice-Activated Assistant**
