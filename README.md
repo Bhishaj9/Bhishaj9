@@ -1,86 +1,92 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Vashistha
-========================================================================================================================================
+# Gaurav Vashistha
+## AI Solutions Architect & Cloud Engineer | Founder, Bhishaj Technologies
 
-Agentic AI Engineer | Python Developer | Event-Driven Architectures
----------------------------------------------------------------
+**Architecting Sovereign Intelligence & Distributed Agentic Workflows**
 
-**About Me**
-Hi! I'm Gaurav Vashistha, an **Agentic AI Engineer and Python Developer** specializing in building autonomous multi-agent workflows and event-driven architectures. I have extensive experience with **FastAPI**, **Llama 3.2 Vision**, and **Pinecone (RAG)**.
+I specialize in the design, deployment, and optimization of private AI ecosystems and fault-tolerant cloud architectures. As the Founder of **Bhishaj Technologies** (a registered MSME), my work bridges the gap between advanced machine learning and "Hard Engineering"—focusing on deterministic system reliability, strict ACID compliance, and measurable business ROI.
 
-Formerly a Digital Catalog Specialist, I now focus on translating business requirements into deployed AI solutions. My passion lies in orchestrating complex enterprise workflows.
+My engineering philosophy is rooted in **Stoic-informed architecture**: assuming system failure is inevitable and designing for absolute resilience through robust safety patterns, state-machine orchestration, and rigorous integration testing.
 
-* 🌍  I'm based in **Noida, UP**
-* ✉️  Contact me at **[gaurav.vashistha09@gmail.com](mailto:gaurav.vashistha09@gmail.com)**
-* 🧠  I'm currently building **MerchFlow AI** and exploring **Agentic Workflows**
-* 🤝  Open to collaborations on **GenAI, RAG, and Automation projects**
+* 🌍 Based in **Noida, UP**
+* ✉️ Contact me at **[gaurav.vashistha09@gmail.com](mailto:gaurav.vashistha09@gmail.com)**
+* 🏢 Founder of **Bhishaj Technologies**
+* 🤝 Open to consulting on **Sovereign AI, Agentic Workflows, and Cloud Architecture**
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Core Architecture & Tech Stack
 
-**AI & GenAI:**
-![Llama 3.2](https://img.shields.io/badge/Llama_3.2-040404?style=for-the-badge&logo=meta&logoColor=blue)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain/RAG](https://img.shields.io/badge/RAG_&_Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Veo](https://img.shields.io/badge/Google_Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Languages & Data:**
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-**DevOps & Automation:**
+**AI & Multi-Agent Frameworks**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF655A?style=for-the-badge&logo=n8n&logoColor=white)
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge)
+![Paperclip AI](https://img.shields.io/badge/Paperclip_AI-412991?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-040404?style=for-the-badge)
+
+**Backend & Cloud "Hard Engineering"**
+<br>
+![Python](https://img.shields.io/badge/Python_(FastAPI)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_(BRPOPLPUSH)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(ACID)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Languages & Frontend**
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Dart_(Flutter)-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Media Processing & Specialized Systems**
+<br>
+![FFmpeg](https://img.shields.io/badge/FFmpeg_/_FFprobe-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SIT](https://img.shields.io/badge/System_Integration_Testing-323330?style=for-the-badge)
+
+---
+
+### 🚀 Key Projects & Architectural Ownership
+
+#### 🛡️ Anvesha AI: Sovereign Indian Intelligence Engine
+*A private intelligence pipeline designed for strictly cited synthesis using native Indian LLMs.*
+* **Architecture:** Driven by the custom **'Sutra' pipeline**, utilizing **Sarvam 30B/105B** models to retrieve and synthesize authenticated data exclusively from `.gov.in` sources. Integrated with multimodal STT/TTS capabilities.
+* **Business Outcome:** Ensures absolute data sovereignty and semantic accuracy for regional-specific policy and governmental data queries, eliminating third-party data leaks.
+
+#### ⚙️ Niyanta: Self-Hosted AI Control Plane
+*A centralized operations hub deployed on GCP for automated business management.*
+* **Architecture:** Built on Google Cloud leveraging **OpenClaw** and **Paperclip AI** for agentic workflow orchestration. Employs robust state tracking and error handling.
+* **Business Outcome:** Successfully automated **70% of freelance operations and project scoping**, drastically reducing administrative overhead and accelerating client onboarding.
+
+#### 🎥 Continuity & `continuity-stitch` (SaaS)
+*Distributed, fault-tolerant video bridging SaaS for seamless cinematic transitions.*
+* **Architecture:** Powered by **Gemini 2.0 Flash** and **Veo 3.1** for generative transitions. Backed by **Redis** (implementing job safety via the `BRPOPLPUSH` reliable queue pattern) to guarantee task execution across distributed workers. Published a custom PyPI package (`continuity-stitch`) for highly optimized, frame-accurate 1080p normalization using **FFmpeg**.
+* **Business Outcome:** Delivered a highly concurrent rendering pipeline that eliminates dropped frames and ensures zero-data-loss job processing, driving reliable high-tier SaaS subscriptions.
+
+#### 🛒 MerchFlow AI
+*Autonomous multi-agent system for end-to-end e-commerce listing generation.*
+* **Architecture:** Orchestrates **Gemini 2.5 Flash** for high-fidelity vision analysis alongside **Llama 3.3 (via Groq)** for ultra-low-latency copywriting. Supported by a robust PostgreSQL database utilizing row-level locking to prevent race conditions during high-volume catalog ingestion.
+* **Business Outcome:** Converts raw product images into high-conversion, SEO-optimized listings autonomously, maximizing merchant GMV velocity.
 
 ---
 
 ### 💼 Professional Experience
 
-**Product Data Engineer**
+**Project Delivery Engineer (AI Content & Automation Focus)**
 *Creative Lipi (IndiaMART Vendor) | Jan 2025 – Oct 2025*
-- Engineered prompt engineering workflows (Gemini/ChatGPT) reducing manual processing time by **40%**.
-- Managed data validation for 200+ catalogs.
-- Optimized SEO for 27+ clients, ensuring high visibility and engagement.
-- Executed System Integration Testing (SIT) ensuring 99% uptime.
----
-
-### 🚀 Featured Projects
-
-#### 🎥 **Continuity**
-*Autonomous video post-production SaaS synthesizing cinematic transition bridges.*
-- **Tech:** FastAPI, Vertex AI (Veo), Stripe, Docker.
-- **Highlights:** "Golden Thread" architecture, async polling with "Dead Man's Switch", smart caching.
-
-#### 🤖 **MerchFlow AI (Open Source Enterprise Edition)**
-*A Multi-Agent system automating e-commerce listings from product images.*
-- **Tech:** Python, FastAPI, Groq, Pinecone, n8n, Docker.
-- **Architecture:** Sequential multi-agent system (Visual, Memory, Writer agents) with RAG pipeline using Pinecone to reduce hallucinations.
-- **Highlights:** Ultra-low latency via Groq and robust **FastAPI** backend.
-
-#### 🎙️ **Jarvis - Voice-Activated Assistant**
-*Advanced virtual assistant for hands-free operation and automation.*
-- **Tech:** Python, OpenAI API, Speech Recognition, NewsAPI.
-- **Features:** Real-time news delivery via NewsAPI, ambient noise adjustment algorithms, and automated web navigation.
+* **Architectural Impact:** Re-engineered the end-to-end catalog lifecycle by integrating advanced prompt engineering pipelines using Gemini and OpenAI.
+* **System Reliability:** Designed deterministic data validation safety nets and implemented rigorous System Integration Testing (SIT), ensuring reliable processing at enterprise scale.
+* **Measurable ROI:** Achieved a **40% reduction in manual overhead**, successfully managing the autonomous validation and deployment of 200+ catalogs while maintaining 99% uptime.
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Certifications
 
-- **B.Tech in CS & AI** | ABESIT (2021-2024)
-- **Diploma in Computer Science** | LPU (2018-2021)
-
-### 🏅 Certifications
-
-- **Microsoft Learn Challenge:** Create agents in Microsoft Copilot Studio (Jan 2025)
-- **Udemy:** Flutter Development Bootcamp (Oct 2024)
+* **Qualcomm AI Upskilling Certificate:** Technical Foundations (March 2026)
+* **Microsoft Learn Challenge:** Create agents in Microsoft Copilot Studio (Jan 2025)
+* **Udemy:** Flutter Development Bootcamp (Oct 2024)
+* **B.Tech in Computer Science & AI:** ABESIT (2021 - 2024)
+* **Diploma in Computer Science:** LPU (2018 - 2021)
 
 ---
 
